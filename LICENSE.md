@@ -1,3 +1,8 @@
+---
+title: ライセンス
+layout: default
+---
+
 # MIT License
 
 Copyright (c) 2025 **Naoya Iha**
